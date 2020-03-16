@@ -18,7 +18,7 @@ main {
 .box {
   background-color: gray;
   display: grid;
-  position: absolute;
+  position: fixed;
   width: 200px;
   height: 200px;
   align-items: center;
