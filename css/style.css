@@ -19,7 +19,7 @@ main {
   background-color: gray;
   display: grid;
   position: fixed;
-  width: 200px;
+  width: 210px;
   height: 200px;
   align-items: center;
   justify-content: center;
