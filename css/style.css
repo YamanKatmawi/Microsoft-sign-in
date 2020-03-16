@@ -19,8 +19,8 @@ main {
   background-color: gray;
   display: flexbox;
   position: fixed;
-  width: 210px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   align-items: center;
   justify-content: center;
   grid-area: box;
